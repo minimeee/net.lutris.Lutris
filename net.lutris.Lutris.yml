@@ -734,7 +734,7 @@ modules:
         /app/share/applications/${FLATPAK_ID}.desktop
     sources:
       - type: git
-        url: https://github.com/lutris/lutris.git
+        url: https://github.com/minimeee/lutris.git
         commit: 10933ba9203a3f008646010005cdf19a6d97552c
     modules:
       - name: gnome-desktop
